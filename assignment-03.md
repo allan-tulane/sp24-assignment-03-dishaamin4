@@ -21,13 +21,11 @@ very clever reason.
 
 **1a)** Given a $N$ dollars, state a greedy algorithm for producing
 as few coins as possible that sum to $N$.
-
 **enter answer in `answers.md`**
 
 
 **1b)** Prove that this algorithm is optimal by proving the greedy
   choice and optimal substructure properties.
-
 **enter answer in `answers.md`**
 
 
@@ -60,6 +58,7 @@ possible?
   property.
 
 **enter answer in `answers.md`**
+ 
 
 
 **2c)** Use this optimal substructure property to design a
